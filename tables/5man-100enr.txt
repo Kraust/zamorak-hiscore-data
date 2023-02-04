@@ -1,0 +1,1093 @@
+2023-02-04 08:26:22,859: Fetching Zamorak Stats for Group Size = 5
+2023-02-04 08:37:11,755: Total Teams: 642
+2023-02-04 08:37:11,755: Total Unique Players: 1086
++--------------+-------+----------------+
+|     Name     | Count | Highest Enrage |
++--------------+-------+----------------+
+| Iris By GGD  |   59  |      510       |
+| Overprepare  |   58  |      710       |
+|  Gold plzz   |   45  |      710       |
+| Phenom_Iron  |   35  |      710       |
+|     Raw      |   31  |     13600      |
+|  Teogether   |   30  |      750       |
+|  Nex Appeal  |   28  |      1000      |
+|   Coldasn    |   28  |      1000      |
+| ThicccMuffin |   28  |      510       |
+|    Feuer     |   23  |      1000      |
+|   XinruiYu   |   23  |      750       |
+|  Im OliRea   |   23  |      710       |
+|  Bugs Bunny  |   20  |     13600      |
+|  Todeswucht  |   20  |      1000      |
+|   Antonin    |   19  |      1000      |
+|   Cue Nick   |   19  |      750       |
+|   WhoDat29   |   17  |     13200      |
+|     R JS     |   17  |      1000      |
+|    Silli     |   16  |     13600      |
+|    Ayumu     |   15  |      2010      |
+|   Trololol   |   15  |      1000      |
+|  Capt Worm   |   14  |     13600      |
+|     Anez     |   14  |      1000      |
+|   Fe Rich    |   14  |      750       |
+| E O BRAZINO  |   14  |      400       |
+|  Sejearian   |   13  |     13200      |
+|     RJJC     |   13  |      1000      |
+|   Lu Kayin   |   13  |      800       |
+| PizzaCollege |   13  |      570       |
+| AgtCodyBankz |   13  |      502       |
+| Rocket Cars  |   12  |      2010      |
+|    Caphra    |   12  |      2010      |
+|     Muiz     |   12  |      1310      |
+| Chaotic Rico |   12  |      1000      |
+|  Sheepswag   |   12  |      800       |
+|   Dunhill    |   12  |      500       |
+| DarthBane IM |   12  |      500       |
+|   IM Angus   |   12  |      500       |
+|  hello bye   |   11  |      2030      |
+|  Novability  |   11  |      1000      |
+|     Wzrd     |   11  |      800       |
+|   shreyas    |   11  |      630       |
+| Frozen Spuds |   11  |      630       |
+|  See Me 53   |   11  |      570       |
+|    Xomano    |   11  |      400       |
+|   Zaiimen    |   10  |     13600      |
+|     I NK     |   10  |      1000      |
+|    Huddon    |   10  |      500       |
+|   Andreew    |   10  |      500       |
+| Zoheb No DPM |   10  |      400       |
+|   So Rainy   |   9   |     13200      |
+|     Arfy     |   9   |      2010      |
+|    downs     |   9   |      2000      |
+|     Iyaz     |   9   |      2000      |
+| LeonTehSheep |   9   |      2000      |
+|   Flamewan   |   9   |      1000      |
+|  Fidele2650  |   9   |      800       |
+|    Onesie    |   9   |      666       |
+|    Chives    |   9   |      630       |
+|  smurfy420   |   9   |      570       |
+|    Mu-Ziq    |   9   |      500       |
+|   Vini bow   |   9   |      400       |
+| Guilhermeraf |   9   |      400       |
+|   Lengii21   |   9   |      300       |
+|   stickahs   |   8   |      2000      |
+|     dedi     |   8   |      2000      |
+|   caterpii   |   8   |      2000      |
+|     Glue     |   8   |      1010      |
+|    Virius    |   8   |      1010      |
+|   Seispip    |   8   |      830       |
+|   Lexa Pro   |   8   |      630       |
+|    Razzi     |   8   |      600       |
+| rsn nurdawg  |   8   |      580       |
+|  Pallomides  |   8   |      510       |
+|    Rcm37     |   8   |      500       |
+|   Yelpsie    |   8   |      500       |
+|  Blyadrick   |   8   |      200       |
+| Josiel oLvR  |   8   |      200       |
+|  The RS Guy  |   7   |     12070      |
+|  downsyboo   |   7   |      2000      |
+|   Keewee07   |   7   |      2000      |
+|   Gul Saft   |   7   |      1020      |
+|     Fade     |   7   |      1020      |
+|  A Poptart   |   7   |      1000      |
+|   Maliiii    |   7   |      1000      |
+|    Hero1     |   7   |      940       |
+|     FCB      |   7   |      830       |
+| CharlieBrown |   7   |      750       |
+| Holy Lemon 3 |   7   |      750       |
+| duper cheese |   7   |      500       |
+|  boweotoast  |   7   |      500       |
+| Blitzekrieg  |   7   |      500       |
+| khall dr0g0  |   7   |      500       |
+| PvM Tolkien  |   7   |      400       |
+|  Zensithar   |   7   |      300       |
+|   sh eesh    |   7   |      250       |
+|    iRegs     |   7   |      210       |
+|    Mofibo    |   7   |      200       |
+|     Qlhp     |   6   |      7510      |
+|    g0att     |   6   |      4000      |
+|    Washly    |   6   |      2030      |
+|  LongShorts  |   6   |      2000      |
+| Kaiyser Soze |   6   |      2000      |
+|  Gentledan   |   6   |      1010      |
+|     Omid     |   6   |      900       |
+| Last of Gus  |   6   |      860       |
+|     1peb     |   6   |      860       |
+| A k s h a y  |   6   |      830       |
+| Runechuckie  |   6   |      750       |
+| Coach Pesto  |   6   |      750       |
+| SpRiGgAnGoRe |   6   |      750       |
+|    Alana     |   6   |      740       |
+|   Sig urd    |   6   |      666       |
+| Toxic Luffy  |   6   |      650       |
+|  BlackFrogz  |   6   |      600       |
+|    brods     |   6   |      600       |
+|  Desertank   |   6   |      510       |
+|    Arwyn     |   6   |      501       |
+|    Lowsak    |   6   |      500       |
+|  Shadesmar   |   6   |      500       |
+|    K0bEn     |   6   |      500       |
+| Golden Alien |   6   |      400       |
+|   King Sia   |   6   |      350       |
+|    Zavje     |   6   |      340       |
+|   Mr Gumbo   |   6   |      340       |
+|     Dmv0     |   6   |      200       |
+| Veryspoonfed |   6   |      200       |
+|  Iron Maht   |   6   |      200       |
+|  Tuck Felos  |   6   |      200       |
+|   brighten   |   6   |      100       |
+|   Pigssss    |   5   |      4000      |
+|      Rc      |   5   |      2030      |
+|    dmowo     |   5   |      2000      |
+|  Brokestra   |   5   |      1090      |
+|  SnoopChris  |   5   |      1020      |
+|  Alexaander  |   5   |      1020      |
+|    Tajlu     |   5   |      1010      |
+|   im chris   |   5   |      1000      |
+|   RsSavage   |   5   |      1000      |
+|    trist     |   5   |      1000      |
+|   R O E L    |   5   |      1000      |
+|    Gerdo     |   5   |      1000      |
+|   Jackle2    |   5   |      1000      |
+|   Sproetje   |   5   |      1000      |
+|    Zedno     |   5   |      860       |
+|   calmful    |   5   |      760       |
+|   Mr Zell    |   5   |      750       |
+|    Lunge     |   5   |      720       |
+|    M I W     |   5   |      720       |
+|  Stuman131   |   5   |      700       |
+|  God Serena  |   5   |      600       |
+|   ms jenni   |   5   |      600       |
+| Bliksem2Bos  |   5   |      570       |
+|     Exla     |   5   |      510       |
+|     zmda     |   5   |      500       |
+|    Downz     |   5   |      500       |
+|     Laty     |   5   |      500       |
+|   Svennnnn   |   5   |      500       |
+|    Hamjug    |   5   |      500       |
+| DangerNoodlz |   5   |      500       |
+| Rebels Kyle2 |   5   |      500       |
+| ZaddyPandrex |   5   |      500       |
+|  Aus Entity  |   5   |      500       |
+|  KOTP Luffy  |   5   |      500       |
+| veng3nce O_o |   5   |      499       |
+|    Pheeel    |   5   |      400       |
+| DoggoBandito |   5   |      400       |
+| Warlord Darc |   5   |      400       |
+|     R38      |   5   |      340       |
+|     Kwe      |   5   |      250       |
+|  Dark Fuzz   |   5   |      250       |
+|  EoFinality  |   5   |      250       |
+| Snedig Kage  |   5   |      200       |
+|  Pikskaden   |   5   |      200       |
+|  knickerles  |   5   |      200       |
+|   nielskuh   |   5   |      200       |
+|     Cygs     |   5   |      200       |
+| prime soul94 |   4   |      7510      |
+|    Prada     |   4   |      2030      |
+| Evil Lucario |   4   |      2000      |
+| zig zag more |   4   |      1200      |
+|   Minstrel   |   4   |      1200      |
+|  crime mob   |   4   |      1090      |
+|   critless   |   4   |      1090      |
+|   Braaten    |   4   |      1020      |
+| Cbf Recompin |   4   |      1000      |
+|    Fronk     |   4   |      1000      |
+| Sticky Mick  |   4   |      1000      |
+|     Ab55     |   4   |      1000      |
+|   Gravity    |   4   |      1000      |
+|    Yickee    |   4   |      850       |
+|    Hoobs     |   4   |      800       |
+|  RakThalosh  |   4   |      800       |
+|    Doufu     |   4   |      750       |
+|  Holy Magic  |   4   |      750       |
+|  Ehrengurke  |   4   |      750       |
+|   Literate   |   4   |      710       |
+|    Kayne     |   4   |      600       |
+|     sofi     |   4   |      600       |
+|    GonJaa    |   4   |      600       |
+|    Lazko     |   4   |      600       |
+|  Darkology   |   4   |      570       |
+|   Memenix    |   4   |      570       |
+|   Ando000    |   4   |      570       |
+|     E T      |   4   |      510       |
+|  KnutInButt  |   4   |      510       |
+|   P o k i    |   4   |      502       |
+|     Goud     |   4   |      502       |
+|   Dr Murse   |   4   |      502       |
+|    spite     |   4   |      500       |
+|  Sazandora   |   4   |      500       |
+| Dxp Fatality |   4   |      500       |
+|    WazzaH    |   4   |      500       |
+| kystonninen  |   4   |      500       |
+|   Jade 15    |   4   |      500       |
+|    durrs     |   4   |      500       |
+|  Bummy Hobo  |   4   |      500       |
+| I Lick Hobos |   4   |      500       |
+|   Le Soul    |   4   |      500       |
+|     Zodo     |   4   |      500       |
+| Walking Dead |   4   |      500       |
+|  monkeg222   |   4   |      500       |
+|   Memesby    |   4   |      500       |
+|  Vile MKII   |   4   |      500       |
+|     Rock     |   4   |      500       |
+|    Girls     |   4   |      500       |
+|    Verlu     |   4   |      500       |
+|   Marty I    |   4   |      500       |
+|  grim check  |   4   |      500       |
+|   Rs Livin   |   4   |      500       |
+| unluckygout  |   4   |      450       |
+| Bartje00100  |   4   |      420       |
+|    Alpii     |   4   |      340       |
+|    jiahn     |   4   |      340       |
+|  sockfeeder  |   4   |      290       |
+|    Jimmie    |   4   |      250       |
+|  Ovl golem   |   4   |      210       |
+|   CastieI    |   4   |      200       |
+|     4min     |   4   |      200       |
+|   Zodiac69   |   4   |      200       |
+|   Jujuzist   |   4   |      200       |
+|  PvM_Follen  |   4   |      200       |
+|  Alexandre   |   4   |      180       |
+| paddy is baq |   4   |      140       |
+|    Putfit    |   4   |      100       |
+|   feeding    |   4   |      100       |
+| instant sell |   4   |      100       |
+|    Meera     |   3   |     10650      |
+|    DePose    |   3   |      4000      |
+|     Gioe     |   3   |      2000      |
+|  RaiseOnce   |   3   |      2000      |
+|    P U P     |   3   |      2000      |
+|     Kwin     |   3   |      2000      |
+|  Yae Mikowo  |   3   |      1310      |
+|    Eldar     |   3   |      1310      |
+|  so idiotic  |   3   |      1090      |
+|  Wadge Man   |   3   |      1000      |
+|     HIVR     |   3   |      1000      |
+|    Bawker    |   3   |      1000      |
+| Team Tukker  |   3   |      1000      |
+|  Mirakuruuu  |   3   |      1000      |
+|     Diep     |   3   |      850       |
+|   ggurran    |   3   |      720       |
+| Uranium Atom |   3   |      630       |
+| Alpha Check  |   3   |      600       |
+|   Vorawgo    |   3   |      600       |
+|  Kim Wilde   |   3   |      570       |
+|    Maeel     |   3   |      570       |
+|     duwu     |   3   |      550       |
+| Smack My Ass |   3   |      530       |
+|      zm      |   3   |      530       |
+|   Smutter    |   3   |      501       |
+|    Vijal     |   3   |      500       |
+|    latina    |   3   |      500       |
+|     rago     |   3   |      500       |
+|    loftt     |   3   |      500       |
+|  Lithesome   |   3   |      500       |
+|    Jharsh    |   3   |      500       |
+| Messy Cheeze |   3   |      500       |
+|   Nasayaa    |   3   |      500       |
+|    C o S     |   3   |      500       |
+|    Rye in    |   3   |      500       |
+|    payout    |   3   |      500       |
+|    lusea     |   3   |      500       |
+|    Gerni     |   3   |      500       |
+|   Wazzapy    |   3   |      500       |
+|   Spud2032   |   3   |      500       |
+|    Kiekrz    |   3   |      500       |
+| Patryk11761  |   3   |      500       |
+|   Lexic0n    |   3   |      500       |
+|    3nqash    |   3   |      500       |
+|    2 L T     |   3   |      500       |
+|    Nawaf     |   3   |      500       |
+|  Souless911  |   3   |      500       |
+|  Mr Dragon   |   3   |      500       |
+|  Sad Wo lf   |   3   |      500       |
+|   Usa1311    |   3   |      500       |
+|   Doc Tod    |   3   |      500       |
+| Bruzzer Mini |   3   |      500       |
+|    Giguh     |   3   |      450       |
+|   s v e n    |   3   |      420       |
+|    1ndian    |   3   |      400       |
+| SunnyBadBoy  |   3   |      400       |
+|  Saiten 118  |   3   |      350       |
+|   Gerblore   |   3   |      350       |
+|   RsDiddy    |   3   |      300       |
+|   te mamo    |   3   |      300       |
+|    JiiPee    |   3   |      250       |
+|    Vouti     |   3   |      250       |
+|  Rahkatykki  |   3   |      250       |
+|   Schrimpi   |   3   |      250       |
+|    Koori     |   3   |      250       |
+|    Daniii    |   3   |      250       |
+| PseudoScotty |   3   |      250       |
+|   Dakitten   |   3   |      222       |
+|   lil gym    |   3   |      210       |
+| Back2Office  |   3   |      210       |
+|  Falcon142   |   3   |      210       |
+| Enormous Rod |   3   |      210       |
+|   Fist in    |   3   |      210       |
+|    Ace D     |   3   |      200       |
+| Witherhoard  |   3   |      200       |
+|  A big pleb  |   3   |      200       |
+| Mia Colucci  |   3   |      200       |
+|  TealTomato  |   3   |      200       |
+|  Frugal Wiz  |   3   |      200       |
+|   Shereen    |   3   |      200       |
+|  revo rowan  |   3   |      180       |
+|  Immortino   |   3   |      170       |
+| 7th dps pile |   3   |      170       |
+| Ghotic Fish  |   3   |      130       |
+| Onlinevirus  |   3   |      110       |
+|   Ztheart    |   3   |      110       |
+| Jandlaas247  |   3   |      110       |
+|  Glory Arc   |   3   |      100       |
+|   Gramr98    |   3   |      100       |
+|  Holzkiste   |   3   |      100       |
+|    Rhyzm     |   3   |      100       |
+| shut up dumb |   3   |      100       |
+|  dreamiest   |   3   |      100       |
+|     Ooky     |   3   |      100       |
+|   nessyboo   |   3   |      100       |
+|    AB ED     |   2   |      7510      |
+| Hero0fLight  |   2   |      7510      |
+|   Az Liam    |   2   |      4000      |
+|   Wiz Tot    |   2   |      4000      |
+|   disney4    |   2   |      2000      |
+|  Big Dummy   |   2   |      2000      |
+|   geherman   |   2   |      1600      |
+|    Akaro     |   2   |      1310      |
+|   Zhongli    |   2   |      1310      |
+|  so pretty   |   2   |      1090      |
+| LiesAndTears |   2   |      1010      |
+|   J oseph    |   2   |      1000      |
+|    saiful    |   2   |      1000      |
+|  Jermaine24  |   2   |      760       |
+|    Theump    |   2   |      650       |
+| Trimmed Req  |   2   |      600       |
+|   Dethium    |   2   |      600       |
+|   Trentkal   |   2   |      570       |
+|  Shikamaru   |   2   |      501       |
+|    Ankles    |   2   |      501       |
+|   Provoke    |   2   |      501       |
+| GreenCorner  |   2   |      500       |
+| Farmsnake32  |   2   |      500       |
+|    jordy     |   2   |      500       |
+| bitterbetty6 |   2   |      500       |
+|     wah      |   2   |      500       |
+|  Lunaticus   |   2   |      500       |
+|    mccree    |   2   |      500       |
+|    Gettle    |   2   |      500       |
+|  Ice Habibi  |   2   |      500       |
+|  Icy Prison  |   2   |      500       |
+|  Last-twist  |   2   |      500       |
+|  PinkRoses   |   2   |      500       |
+|     Kowi     |   2   |      500       |
+|   CalledIt   |   2   |      500       |
+|   Glooping   |   2   |      500       |
+|  Mr Legendz  |   2   |      500       |
+|  Nitharsan   |   2   |      500       |
+|    Kyaki     |   2   |      500       |
+|    xellay    |   2   |      500       |
+|  RautaRaita  |   2   |      500       |
+|  Just Kevin  |   2   |      500       |
+|     Imp      |   2   |      500       |
+|     lexa     |   2   |      500       |
+|    Hanayk    |   2   |      500       |
+|  i cba ffs   |   2   |      500       |
+|  Sirpaul24   |   2   |      500       |
+| TimeToMoveOn |   2   |      500       |
+|  Pvm Pengu   |   2   |      500       |
+|     Zift     |   2   |      500       |
+|  xTENTACI0N  |   2   |      500       |
+|    Rehan     |   2   |      500       |
+|  Iron Miraa  |   2   |      500       |
+|     Spo      |   2   |      500       |
+|  WhiteTiger  |   2   |      500       |
+| Famous Drops |   2   |      500       |
+|    Sc er     |   2   |      500       |
+|    Ersin     |   2   |      500       |
+|    lrisk     |   2   |      500       |
+|   l icy l    |   2   |      500       |
+| Pinky Swear  |   2   |      500       |
+|  Dub Illest  |   2   |      500       |
+|  Zout Held   |   2   |      500       |
+| Eyy Macarena |   2   |      500       |
+|  CerealBox   |   2   |      500       |
+|  Bongobloke  |   2   |      500       |
+| OwO its blek |   2   |      500       |
+|  sad boi c   |   2   |      500       |
+|   vladimir   |   2   |      500       |
+|    Zain M    |   2   |      500       |
+|   Samuell    |   2   |      500       |
+| stiffingers  |   2   |      500       |
+|   Timberz    |   2   |      500       |
+|     Ghp      |   2   |      500       |
+|    applez    |   2   |      500       |
+| Winsome Lad  |   2   |      500       |
+|   TonyX69X   |   2   |      500       |
+|  Mech Chin   |   2   |      500       |
+|   Im Rami    |   2   |      500       |
+|    Mheka     |   2   |      500       |
+| FreakAthlete |   2   |      500       |
+|  Ice Spoon   |   2   |      500       |
+|   iTz ReD    |   2   |      500       |
+|    Exuke1    |   2   |      500       |
+|    Tinky1    |   2   |      500       |
+| Soggy Pillow |   2   |      450       |
+| Capabiliity  |   2   |      450       |
+|    Sidus     |   2   |      420       |
+|    Topic     |   2   |      420       |
+| Thus I Atone |   2   |      420       |
+|   Cardiooo   |   2   |      400       |
+|   1337 BTW   |   2   |      400       |
+|    shazz     |   2   |      350       |
+|   M R O B    |   2   |      300       |
+|   Dr Spine   |   2   |      300       |
+| Bilbo Bagme  |   2   |      300       |
+| [#HU8GVXG54] |   2   |      300       |
+| WolfDwnEarth |   2   |      280       |
+| Samers FSOA  |   2   |      280       |
+|  CurveBoned  |   2   |      280       |
+|   TR samer   |   2   |      280       |
+|    Palkia    |   2   |      270       |
+|   mini ass   |   2   |      260       |
+|  PiffScape   |   2   |      260       |
+|   Biscuits   |   2   |      250       |
+|  Squirtles   |   2   |      250       |
+|  Shaneb780   |   2   |      250       |
+|  Kevin 502   |   2   |      250       |
+|   50 Cent    |   2   |      250       |
+| Slim-Jesus97 |   2   |      220       |
+|  lil virtus  |   2   |      210       |
+| Beastmaster  |   2   |      210       |
+|    Kwisty    |   2   |      210       |
+|   Afroboy    |   2   |      210       |
+|   Racoonz2   |   2   |      210       |
+|  Sir Brammy  |   2   |      210       |
+|   Sommeil    |   2   |      200       |
+|   Roberdon   |   2   |      200       |
+|  viktor2015  |   2   |      200       |
+|   Nackles    |   2   |      200       |
+|    9ckii     |   2   |      200       |
+|    skurt     |   2   |      200       |
+| I am Araxxor |   2   |      200       |
+|   David93    |   2   |      200       |
+|  IronOnion   |   2   |      200       |
+|    69sec     |   2   |      200       |
+|    Pixzle    |   2   |      200       |
+|  Iron Basti  |   2   |      200       |
+|  Iron Pazu   |   2   |      200       |
+| Sin To Spin  |   2   |      200       |
+|   BIackout   |   2   |      200       |
+| CraziChemist |   2   |      200       |
+|  Marco Reu5  |   2   |      200       |
+|     B en     |   2   |      200       |
+|  Shinetales  |   2   |      200       |
+|     ieli     |   2   |      200       |
+| Lady Chelsea |   2   |      200       |
+| ZaneDhampir  |   2   |      200       |
+| Chonky Milo  |   2   |      200       |
+| XtraSparkles |   2   |      200       |
+|  Ty For Tip  |   2   |      200       |
+|   Poot Bow   |   2   |      200       |
+| Black ethot  |   2   |      200       |
+| Callme_flex  |   2   |      200       |
+|   DiddyBop   |   2   |      180       |
+|     la i     |   2   |      170       |
+| NameCharactr |   2   |      170       |
+|    Crikin    |   2   |      170       |
+|   Germa 66   |   2   |      170       |
+| McRibEnjoyer |   2   |      170       |
+|   Mr Rushy   |   2   |      170       |
+| Nice Timing  |   2   |      160       |
+| solo toaster |   2   |      150       |
+| FoxfireAurey |   2   |      150       |
+| T0XIC SHADOW |   2   |      130       |
+| Mank the Man |   2   |      130       |
+| GNOME CHlLD  |   2   |      130       |
+|   KiwiChuu   |   2   |      130       |
+|    bo0op     |   2   |      130       |
+|    Fincho    |   2   |      120       |
+|    Roowie    |   2   |      110       |
+|  AudioInput  |   2   |      110       |
+| FauxNewsFox  |   2   |      110       |
+|     Pech     |   2   |      100       |
+|    Aziwa     |   2   |      100       |
+|  Peterwagen  |   2   |      100       |
+|  Molassacre  |   2   |      100       |
+|  ToughTony   |   2   |      100       |
+| Info Seeker  |   2   |      100       |
+|     Alan     |   2   |      100       |
+| Im Stephano  |   2   |      100       |
+|   Mostima    |   2   |      100       |
+| Sleepy Ganyu |   2   |      100       |
+|  Xamavoice   |   2   |      100       |
+|    Reeker    |   2   |      100       |
+|    azzimi    |   2   |      100       |
+|    Reca9     |   2   |      100       |
+|    Clouwd    |   2   |      100       |
+| Allakhaslam  |   2   |      100       |
+|    FakeBo    |   2   |      100       |
+|   0thello    |   2   |      100       |
+| Mislead Fate |   2   |      100       |
+|   Pechorin   |   2   |      100       |
+|  Grand Dsos  |   1   |      7510      |
+| Strawberries |   1   |      7000      |
+|  Sassy nex   |   1   |      7000      |
+|    xMiley    |   1   |      7000      |
+|   HUTAOJOY   |   1   |      7000      |
+| Friendliness |   1   |      4500      |
+|     Ayah     |   1   |      4069      |
+|    kyroh     |   1   |      4000      |
+|    Denis     |   1   |      2030      |
+|    Stormm    |   1   |      2000      |
+|   bryce-99   |   1   |      2000      |
+|   So Tuna    |   1   |      2000      |
+|    Dr Mad    |   1   |      2000      |
+| SmexyLonely  |   1   |      1010      |
+| Avatarhades  |   1   |      1000      |
+| DerBaumhaus  |   1   |      1000      |
+| Perfect Plus |   1   |      900       |
+|    poe up    |   1   |      600       |
+|     Araa     |   1   |      590       |
+|    Vanmus    |   1   |      590       |
+| MerryCritmus |   1   |      590       |
+|   Vordrago   |   1   |      590       |
+|  KtTheLemon  |   1   |      590       |
+|  Benjamham   |   1   |      540       |
+| Ninja Nothin |   1   |      510       |
+|    mionee    |   1   |      500       |
+|    senie     |   1   |      500       |
+| Dear anyone  |   1   |      500       |
+|    Magsy     |   1   |      500       |
+|   nullgpt    |   1   |      500       |
+|     Roi      |   1   |      500       |
+|    Jagi_o    |   1   |      500       |
+|  No bowske   |   1   |      500       |
+|    Mitic     |   1   |      500       |
+|    Ann a     |   1   |      500       |
+|  Lost Puppy  |   1   |      500       |
+| donkeytits72 |   1   |      500       |
+|   Moodwan    |   1   |      500       |
+|    Bal jr    |   1   |      500       |
+|  sup fella   |   1   |      500       |
+| King Geordie |   1   |      500       |
+|    IM Ram    |   1   |      500       |
+|  Emo Aaron   |   1   |      500       |
+|      Zu      |   1   |      500       |
+|    Kando     |   1   |      500       |
+|    Yoloo     |   1   |      500       |
+| Army Deluxe  |   1   |      500       |
+| Shadow D Ace |   1   |      500       |
+|    Speedi    |   1   |      500       |
+|     Yao      |   1   |      500       |
+|    Yoram     |   1   |      500       |
+| flatwiener69 |   1   |      500       |
+|    Karmy     |   1   |      500       |
+|   Kamista    |   1   |      500       |
+|   El Maroc   |   1   |      500       |
+|   Splashki   |   1   |      500       |
+|   Im Jonas   |   1   |      500       |
+|   Shidouu    |   1   |      500       |
+|  Zeref btw   |   1   |      500       |
+|    Casquo    |   1   |      500       |
+| Mr Branbran  |   1   |      500       |
+|   Leendert   |   1   |      500       |
+| Shilo Spoon  |   1   |      500       |
+| Praecognitio |   1   |      500       |
+| wnd_hunter69 |   1   |      500       |
+|  Holy Legos  |   1   |      500       |
+| ArchyironEZK |   1   |      500       |
+|     DBP      |   1   |      500       |
+|     A 75     |   1   |      500       |
+|   Sontoty    |   1   |      500       |
+|     Dove     |   1   |      500       |
+|   Firenze    |   1   |      500       |
+|     Ryno     |   1   |      500       |
+|    A liah    |   1   |      500       |
+|   Chipette   |   1   |      500       |
+|    iGuish    |   1   |      500       |
+|    Atroz     |   1   |      500       |
+|    Milee     |   1   |      500       |
+|  Archernix   |   1   |      500       |
+|    Sekani    |   1   |      500       |
+| Braccus Rex  |   1   |      500       |
+| ijzerenmeow  |   1   |      500       |
+|  Siuuuicide  |   1   |      500       |
+|   cept me    |   1   |      500       |
+|   M8 of 48   |   1   |      500       |
+|  Drag 2778   |   1   |      500       |
+|   Kalif 9    |   1   |      500       |
+|   delevuu    |   1   |      500       |
+| Salty Hitch  |   1   |      500       |
+| October 20th |   1   |      500       |
+|   Sastrix    |   1   |      500       |
+|    Zo op     |   1   |      500       |
+| AFloppyClock |   1   |      500       |
+|   Floor 23   |   1   |      500       |
+|     Bcn      |   1   |      500       |
+|     Plaz     |   1   |      500       |
+|    Grico     |   1   |      500       |
+|   FlySell    |   1   |      500       |
+| xSad Shadow  |   1   |      500       |
+|   Shuunsui   |   1   |      500       |
+| Retired PvP  |   1   |      500       |
+| Gielinor Bae |   1   |      500       |
+|    Atyrex    |   1   |      500       |
+|  Angel Paul  |   1   |      500       |
+|    Symego    |   1   |      500       |
+|   Poohies    |   1   |      500       |
+|  Leslie-e-e  |   1   |      500       |
+|  FlameRAF69  |   1   |      499       |
+|    Fatall    |   1   |      499       |
+|  Seedicidal  |   1   |      499       |
+|  Flamestar   |   1   |      499       |
+|    Bergs     |   1   |      499       |
+|   Sportpix   |   1   |      499       |
+|   Mz30fast   |   1   |      469       |
+|   Crickets   |   1   |      460       |
+|  Trav is Me  |   1   |      450       |
+| Ragewarrior  |   1   |      420       |
+|  Merideous   |   1   |      400       |
+| Russian Dan  |   1   |      400       |
+|    Sassiy    |   1   |      400       |
+|    mudie     |   1   |      400       |
+|     zJoe     |   1   |      390       |
+|    Bluudi    |   1   |      360       |
+|   Shadofox   |   1   |      360       |
+|    Melad     |   1   |      360       |
+|   Addgent    |   1   |      350       |
+| L u c e n a  |   1   |      350       |
+|   Bushi 34   |   1   |      340       |
+|  Eddard BTW  |   1   |      320       |
+|  GIGA N U T  |   1   |      320       |
+|   McHotty    |   1   |      320       |
+|    Concho    |   1   |      320       |
+|  An Strayan  |   1   |      320       |
+| Fail Turtle  |   1   |      300       |
+| MasterOfSlay |   1   |      300       |
+| Tinyy Turtle |   1   |      300       |
+|   tjittie0   |   1   |      300       |
+| Visievangen1 |   1   |      300       |
+|     Wolv     |   1   |      300       |
+|   Zarriox    |   1   |      300       |
+|    Pchem     |   1   |      300       |
+|  xElusivex   |   1   |      300       |
+|    woochy    |   1   |      300       |
+|    bOwOlg    |   1   |      300       |
+| Be Ice To Me |   1   |      300       |
+| Dictator Fal |   1   |      300       |
+| XxKazooiexX  |   1   |      300       |
+|    Monse     |   1   |      300       |
+|  Mr Snoopy   |   1   |      300       |
+|   Rowan131   |   1   |      300       |
+|      9w      |   1   |      300       |
+|  muzzY doN   |   1   |      300       |
+|     byj      |   1   |      300       |
+|   lucretiA   |   1   |      300       |
+| waverly earp |   1   |      300       |
+| Lvl 100 Dorb |   1   |      300       |
+|     Tsuk     |   1   |      300       |
+| Fantm Regime |   1   |      300       |
+| interstellr  |   1   |      280       |
+| Jolteon btw  |   1   |      280       |
+| Ole McDonald |   1   |      280       |
+|  Just Boss   |   1   |      260       |
+|   wotever    |   1   |      260       |
+|  Stir Fried  |   1   |      260       |
+|   Tuomo88    |   1   |      250       |
+|  Pulp Runs   |   1   |      250       |
+|  Iron Mist   |   1   |      250       |
+| mini elliot  |   1   |      250       |
+| Ricedaddy69  |   1   |      250       |
+| Smokescreen  |   1   |      250       |
+| I Fleurtje I |   1   |      250       |
+|    Rosess    |   1   |      250       |
+|   Wiki Wu    |   1   |      250       |
+|   Bog Day    |   1   |      250       |
+|  Sugar Hyp   |   1   |      250       |
+|    Sharna    |   1   |      250       |
+|   Brrandon   |   1   |      250       |
+|   Githoro    |   1   |      250       |
+|    Cri m     |   1   |      250       |
+| DragonHamm3r |   1   |      250       |
+|  foxy racer  |   1   |      250       |
+|   Zed Raze   |   1   |      250       |
+| Magmortar66  |   1   |      230       |
+|  Noo way g   |   1   |      220       |
+|   lil spim   |   1   |      210       |
+|   Rychiew    |   1   |      210       |
+|    lBebi     |   1   |      210       |
+|   Hyper v1   |   1   |      200       |
+|    Nekiya    |   1   |      200       |
+|     nneo     |   1   |      200       |
+|  Cardi Brie  |   1   |      200       |
+|  Shakerboye  |   1   |      200       |
+|    Fysmat    |   1   |      200       |
+| lil kreampie |   1   |      200       |
+|    Shupa     |   1   |      200       |
+|  Livengood   |   1   |      200       |
+|  Mack Tiger  |   1   |      200       |
+| FAT BullToad |   1   |      200       |
+|     aIZ      |   1   |      200       |
+|  polar pavu  |   1   |      200       |
+|    taleyy    |   1   |      200       |
+|     Lilz     |   1   |      200       |
+|  Pan Kacper  |   1   |      200       |
+|   AAdriAAn   |   1   |      200       |
+|     N3C      |   1   |      200       |
+| Draconblade  |   1   |      200       |
+|     gtg      |   1   |      200       |
+|    Barum7    |   1   |      200       |
+|   C Falkon   |   1   |      200       |
+| Waterhondje  |   1   |      200       |
+|  Choco Bae   |   1   |      200       |
+|    Lucosa    |   1   |      200       |
+|    podre     |   1   |      200       |
+|     R a1     |   1   |      200       |
+|  Brunterfly  |   1   |      200       |
+|     FoKz     |   1   |      200       |
+|   ProToday   |   1   |      200       |
+| Gullycreepa  |   1   |      200       |
+|  Tango_870   |   1   |      200       |
+|  Diggy Mole  |   1   |      200       |
+|  Charlez220  |   1   |      200       |
+| Risen Woodz  |   1   |      200       |
+|  JustxDrew   |   1   |      200       |
+|    Clad4     |   1   |      200       |
+|    5hupa     |   1   |      200       |
+|    Nexiez    |   1   |      200       |
+|  0 Nothing   |   1   |      200       |
+| Oh So Lonely |   1   |      200       |
+| Wild Raikou  |   1   |      200       |
+|  Magic Koda  |   1   |      200       |
+|   Isigned    |   1   |      200       |
+|     Trif     |   1   |      200       |
+|   Makariaa   |   1   |      200       |
+|   Kipodkis   |   1   |      200       |
+|  888Winner   |   1   |      200       |
+|    xHofi     |   1   |      200       |
+|    Fumzy     |   1   |      200       |
+| Frauenrechte |   1   |      200       |
+|  Dark Magic  |   1   |      200       |
+|   Dizzied    |   1   |      200       |
+| CHICO BALA22 |   1   |      200       |
+|  dispersing  |   1   |      200       |
+| Tolerabolity |   1   |      200       |
+|   pancweas   |   1   |      200       |
+|  Ajmes Dad   |   1   |      200       |
+| TheWholeBag  |   1   |      200       |
+|   V l o r    |   1   |      200       |
+| unntrimmedhp |   1   |      200       |
+|   DTD ZAM    |   1   |      200       |
+|     PC1      |   1   |      200       |
+|  Destiny Nx  |   1   |      200       |
+| I Beast Moms |   1   |      200       |
+|    juggy1    |   1   |      200       |
+|  Iron Urby   |   1   |      190       |
+|  Erulastiel  |   1   |      190       |
+|    bp bp     |   1   |      190       |
+| Capt Algren  |   1   |      190       |
+|  Sup Falco   |   1   |      190       |
+|  Koori Alt   |   1   |      170       |
+|   Swiftie    |   1   |      170       |
+|   Jadinko    |   1   |      170       |
+|   Razor17    |   1   |      170       |
+| RakettiNorsu |   1   |      160       |
+|  Oceancoco   |   1   |      160       |
+|     Keny     |   1   |      160       |
+|    shelly    |   1   |      160       |
+|  annaswift   |   1   |      160       |
+|  Meleefish   |   1   |      150       |
+|     THK      |   1   |      150       |
+|    Xrylox    |   1   |      150       |
+|  Octillion   |   1   |      150       |
+|   Thorlak    |   1   |      150       |
+| My cat Yuumi |   1   |      150       |
+|  Blu_Aichu   |   1   |      150       |
+|  Kevin Only  |   1   |      150       |
+|   RoughRS    |   1   |      150       |
+|  Sleepycall  |   1   |      150       |
+|   Callepo    |   1   |      150       |
+| SoftcoreZazz |   1   |      150       |
+| PelosiTears  |   1   |      150       |
+|    ninlyo    |   1   |      140       |
+|  Maple Logs  |   1   |      140       |
+| ApacheTankx  |   1   |      140       |
+| Dipper Remon |   1   |      140       |
+|    Poswar    |   1   |      140       |
+| 0JPeterson0  |   1   |      140       |
+|   Ribnose    |   1   |      140       |
+|   0G King    |   1   |      130       |
+|     Xomb     |   1   |      130       |
+|   Eki Boss   |   1   |      130       |
+| Barrows rots |   1   |      130       |
+|  Decimation  |   1   |      130       |
+|   HeroCam    |   1   |      130       |
+|     Tay      |   1   |      130       |
+|     fwb      |   1   |      130       |
+|  Koivuklapi  |   1   |      130       |
+|     idrc     |   1   |      130       |
+|   Vetelys    |   1   |      130       |
+|    girle     |   1   |      130       |
+| HullupuuroV2 |   1   |      130       |
+|  Sad Kozmo   |   1   |      120       |
+|   Sleazey    |   1   |      120       |
+|   Mistari    |   1   |      120       |
+|    xfoxx     |   1   |      120       |
+|  Durial4321  |   1   |      120       |
+|    Ceptz     |   1   |      120       |
+|     Levi     |   1   |      110       |
+|    Robino    |   1   |      110       |
+|   A3Gingy    |   1   |      110       |
+|     Amps     |   1   |      110       |
+|     maf      |   1   |      110       |
+|   Blaziken   |   1   |      110       |
+| BluePentagon |   1   |      110       |
+|    Goblin    |   1   |      110       |
+|     Abs      |   1   |      110       |
+|  Magman213   |   1   |      110       |
+|    Lazir     |   1   |      110       |
+|    Bml Fe    |   1   |      110       |
+| GodTrickster |   1   |      110       |
+|     P0M0     |   1   |      110       |
+|  Akindhuman  |   1   |      110       |
+| Knightly Owl |   1   |      110       |
+| DisGuiseHigh |   1   |      110       |
+| just shad0w  |   1   |      100       |
+|     k1zy     |   1   |      100       |
+|  Richie1996  |   1   |      100       |
+|    Cetjex    |   1   |      100       |
+|    Bnopf     |   1   |      100       |
+|  Mr Keiser   |   1   |      100       |
+|   RyMy Son   |   1   |      100       |
+| FeelsWheelys |   1   |      100       |
+| DanMksItRain |   1   |      100       |
+|  VayneMayne  |   1   |      100       |
+|   Seahawks   |   1   |      100       |
+|     R iN     |   1   |      100       |
+| USSR Potazo  |   1   |      100       |
+|   Wh oops    |   1   |      100       |
+|  KenichiRs   |   1   |      100       |
+| Swissdiamond |   1   |      100       |
+|     Asot     |   1   |      100       |
+|    Aletia    |   1   |      100       |
+| Tony Da Tigr |   1   |      100       |
+|  lil meeps   |   1   |      100       |
+|     Whey     |   1   |      100       |
+|    Rhondi    |   1   |      100       |
+|    Hjonk     |   1   |      100       |
+| I Call Dibs  |   1   |      100       |
+| PuddleSnake  |   1   |      100       |
+| TheBotFather |   1   |      100       |
+| Im Just Sora |   1   |      100       |
+|  LifePoints  |   1   |      100       |
+|   Roselias   |   1   |      100       |
+|   Barbara    |   1   |      100       |
+|   gian1001   |   1   |      100       |
+|    Niebla    |   1   |      100       |
+|    gasha     |   1   |      100       |
+|   Deku-One   |   1   |      100       |
+|   matheuo    |   1   |      100       |
+|  CappyOnion  |   1   |      100       |
+|  Tamp Pawn   |   1   |      100       |
+|  Iced Gamer  |   1   |      100       |
+|    Touhou    |   1   |      100       |
+| WiredJoshua  |   1   |      100       |
+|    Ftezak    |   1   |      100       |
+|  Breadcrust  |   1   |      100       |
+|  Anime slag  |   1   |      100       |
+|  Meme Girl   |   1   |      100       |
+|    Amazes    |   1   |      100       |
+|  Corrupt3d   |   1   |      100       |
+|    Digits    |   1   |      100       |
+| Nanami Kuon  |   1   |      100       |
+| Poissonfish  |   1   |      100       |
+|  S t e p h   |   1   |      100       |
+|   Ten Bag    |   1   |      100       |
+| OMG Its John |   1   |      100       |
+|  IM Aipytos  |   1   |      100       |
+|  Pacify Her  |   1   |      100       |
+|  Small Toe   |   1   |      100       |
+|    Flafel    |   1   |      100       |
+|   Pulling    |   1   |      100       |
+|    Rouqe     |   1   |      100       |
+|   Goo Ink    |   1   |      100       |
+|    Bierki    |   1   |      100       |
+| freakinChuck |   1   |      100       |
+|  Its IM Jon  |   1   |      100       |
+|  Balazs2251  |   1   |      100       |
+| ScareCrow93  |   1   |      100       |
+|  ProSKatona  |   1   |      100       |
+|  PROLovag9   |   1   |      100       |
+|   V4ldesz    |   1   |      100       |
+|  Unit Timmy  |   1   |      100       |
+|   wootchy    |   1   |      100       |
+|  Wha Gwaan   |   1   |      100       |
+|  its akiim   |   1   |      100       |
+| No idea why  |   1   |      100       |
+|     Pakt     |   1   |      100       |
+| PixelForReal |   1   |      100       |
+|    Phione    |   1   |      100       |
+|    xenltz    |   1   |      100       |
+|    Psyduk    |   1   |      100       |
+|   Lawn Hub   |   1   |      100       |
+| Jumping Jack |   1   |      100       |
+|    Strung    |   1   |      100       |
+| LunaLunatic  |   1   |      100       |
+|   Manulee    |   1   |      100       |
+|    Zappa     |   1   |      100       |
+|  Kahmadant   |   1   |      100       |
+|    Mekto1    |   1   |      100       |
+|  ydgcoyote   |   1   |      100       |
+|  Baalz Deep  |   1   |      100       |
+|  Firedog294  |   1   |      100       |
+|  Newb Cube   |   1   |      100       |
+| Chtheilist2  |   1   |      100       |
+|   MikeroRs   |   1   |      100       |
+|  Yung Blow   |   1   |      100       |
+|  bladeland   |   1   |      100       |
+|     ejyl     |   1   |      100       |
+|    Ayamia    |   1   |      100       |
+| NatsuDagneel |   1   |      100       |
+|   Batatoon   |   1   |      100       |
+| GK MaadCity  |   1   |      100       |
+|    Yarack    |   1   |      100       |
+|    Lisuzu    |   1   |      100       |
+|   PSomsen    |   1   |      100       |
+|  EvilDonkey  |   1   |      100       |
+|    Magsie    |   1   |      100       |
+| Kritchakorn  |   1   |      100       |
+|    AISG4     |   1   |      100       |
+|  GlitchyBox  |   1   |      100       |
+|  Hexxhunter  |   1   |      100       |
+|    Aiche     |   1   |      100       |
+| ShiNo Gekai  |   1   |      100       |
+|   JesperRS   |   1   |      100       |
+| Lucky Lukeyy |   1   |      100       |
+|   KieranRS   |   1   |      100       |
+|   Sumari3    |   1   |      100       |
+| CujohJolyne  |   1   |      100       |
+|   Lawliiet   |   1   |      100       |
+| WhatIsADrop  |   1   |      100       |
+|     ar c     |   1   |      100       |
+|  avoid sex   |   1   |      100       |
+|  Navi Love   |   1   |      100       |
+|   Sushie69   |   1   |      100       |
+|    Meliwa    |   1   |      100       |
+|    Bu3esa    |   1   |      100       |
+|   Frapple    |   1   |      100       |
+|  smithy105   |   1   |      100       |
+|    kiwie     |   1   |      100       |
+|    KevRS     |   1   |      100       |
+|     Rir      |   1   |      100       |
+|   Losties    |   1   |      100       |
+|    Camps     |   1   |      100       |
+|    Patze     |   1   |      100       |
+| ultimatedr6  |   1   |      100       |
+|  DryHummus   |   1   |      100       |
+| Daddycakess  |   1   |      100       |
+| ZombiNanners |   1   |      100       |
+|  holdmaduh   |   1   |      100       |
+| Expired Food |   1   |      100       |
+|   ang elo    |   1   |      100       |
+|   Rainyday   |   1   |      100       |
+|  120 Attack  |   1   |      100       |
+| 120 attackk  |   1   |      100       |
+|   Bossman1   |   1   |      100       |
+|   KhatibM    |   1   |      100       |
+|     fys      |   1   |      100       |
+|    holla     |   1   |      100       |
+|   Artimas    |   1   |      100       |
+|   ass simp   |   1   |      100       |
+|   BrainRS    |   1   |      100       |
+| andyaskey20  |   1   |      100       |
+|     1054     |   1   |      100       |
+|    Fabi2     |   1   |      100       |
+| Purely 4 Fun |   1   |      100       |
+|    Slads     |   1   |      100       |
+|    Rudeep    |   1   |      100       |
+| angi senpai  |   1   |      100       |
+|    Kienan    |   1   |      100       |
+|  Very Doge   |   1   |      100       |
+| OmniBalance  |   1   |      100       |
+| Masterfhser  |   1   |      100       |
+|   Shnocky    |   1   |      100       |
+|   Stringed   |   1   |      100       |
+|   Chibii x   |   1   |      100       |
+|  TurkseGeit  |   1   |      100       |
+|    MrHogs    |   1   |      100       |
+|    Kaigi     |   1   |      100       |
+|    hann a    |   1   |      100       |
+|  RsBelgium   |   1   |      100       |
+|   Maikeru    |   1   |      100       |
+|   Coreyb6    |   1   |      100       |
+| FrenchScaper |   1   |      100       |
+|  BabyTator   |   1   |      100       |
+|  im Crystal  |   1   |      100       |
+|   WarmDabs   |   1   |      100       |
+|    MrMoch    |   1   |      100       |
+|     sbuT     |   1   |      100       |
+|  Shaw Krieg  |   1   |      100       |
+|   Cupcakes   |   1   |      100       |
+|   Alesana    |   1   |      100       |
+|    Asada     |   1   |      100       |
+|  Sun check   |   1   |      100       |
+| NoxiousMinds |   1   |      100       |
+|  Epic Smoke  |   1   |      100       |
+|  Marcealio   |   1   |      100       |
+|  Temptati0n  |   1   |      100       |
+| 11s_phillips |   1   |      100       |
+|     KTW      |   1   |      100       |
+|     Aton     |   1   |      100       |
+|    Kaleb     |   1   |      100       |
+| Dat Canadian |   1   |      100       |
+|     Kiba     |   1   |      100       |
+| Amilia Wings |   1   |      100       |
+|     Erin     |   1   |      100       |
+|   Silently   |   1   |      100       |
+| Wikced John  |   1   |      100       |
+|    lianie    |   1   |      100       |
+|  seddoopsi   |   1   |      100       |
+|  Shack Ti 1  |   1   |      100       |
+|     V an     |   1   |      100       |
+| Will Warlock |   1   |      100       |
+|   Labung6    |   1   |      100       |
+|   joycelyn   |   1   |      100       |
+|    S ami     |   1   |      100       |
+|  Mr Burton   |   1   |      100       |
+|  blinky987   |   1   |      100       |
+|  Sycophant   |   1   |      100       |
+|     Duzq     |   1   |      100       |
+|  Middle Max  |   1   |      100       |
+|  Tiny Birbs  |   1   |      100       |
+|    J I O     |   1   |      100       |
+|  DeadRadar   |   1   |      100       |
+|   Ke-Chow    |   1   |      100       |
+|    N1R0M     |   1   |      100       |
+|   JJCrank    |   1   |      100       |
+| Blood Forest |   1   |      100       |
+|  Legend57x   |   1   |      100       |
+|   xVerdant   |   1   |      100       |
+|  Grimmjaww   |   1   |      100       |
+|   Camareto   |   1   |      100       |
+|  Zammo rak   |   1   |      100       |
+|   l uciano   |   1   |      100       |
+|   Ekimike    |   1   |      100       |
+| DiesToDamage |   1   |      100       |
+| Primal Spoon |   1   |      100       |
+| TricksterTop |   1   |      100       |
+|  Tim Ramone  |   1   |      100       |
+| Fishywizard5 |   1   |      100       |
+|  Bow String  |   1   |      100       |
+|    visual    |   1   |      100       |
+|  Baby Gods   |   1   |      100       |
+|  Niobe Labs  |   1   |      100       |
+|  556mm_NATO  |   1   |      100       |
+|   Sariman    |   1   |      100       |
+|   Shavar50   |   1   |      100       |
+|  fsoa spec   |   1   |      100       |
+|  Savage war  |   1   |      100       |
+|     l1M      |   1   |      100       |
+| Angel Elixir |   1   |      100       |
+|  no sinner   |   1   |      100       |
+| BeardJustice |   1   |      100       |
++--------------+-------+----------------+
